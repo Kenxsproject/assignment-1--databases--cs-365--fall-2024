@@ -1,7 +1,10 @@
 <!ELEMENT university-list (student)+>
-
+<!--
+  The university-list element is the main element of the document.
+  It has to contain at least one <student> elements.
+-->
 <!ELEMENT student (first-name,middle-name?,last-name,preferred-name?,student-id,email,phone,academic-staus,gpa,major,minor,enrollment-status,advisor,enrollment-date,graduation-date)>
-
+<!--  The student element represents a student and must contain the following elements in this order: -->
 <!ELEMENT first-name (#PCDATA)>
 <!ELEMENT middle-name (#PCDATA)>
 <!ELEMENT last-name (#PCDATA)>
