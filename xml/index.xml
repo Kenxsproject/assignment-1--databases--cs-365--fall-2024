@@ -20,7 +20,7 @@
     <graduation-date>05-01-1973</graduation-date>
   </student>
 
-   <student>
+  <student>
     <first-name>Kim</first-name>
     <last-name>Thayil</last-name>
     <student-id>4567890</student-id>
@@ -29,14 +29,14 @@
     <academic-status>second year</academic-status>
     <gpa>3.0</gpa>
     <major>Philosophy</major>
-    <minor>Magic</minor>
+    <minor>Music</minor>
     <enrollment-status>full-time</enrollment-status>
     <advisor>Chris Cornell</advisor>
     <enrollment-date>08-25-1978</enrollment-date>
     <graduation-date>05-01-1982</graduation-date>
   </student>
 
-   <student>
+  <student>
     <first-name>Saul</first-name>
     <last-name>Hudson</last-name>
     <preferred-name>"Slash"</preferred-name>
@@ -53,7 +53,7 @@
     <graduation-date>05-01-1987</graduation-date>
   </student>
 
-   <student>
+  <student>
     <first-name>Emily</first-name>
     <last-name>Kokal</last-name>
     <student-id>2983928</student-id>
@@ -69,7 +69,7 @@
     <graduation-date>05-01-2002</graduation-date>
   </student>
 
-   <student>
+  <student>
     <first-name>Mike</first-name>
     <last-name>Inez</last-name>
     <student-id>7645726</student-id>

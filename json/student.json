@@ -1,0 +1,84 @@
+{
+  "university-list": {
+    "student": [
+      {
+        "first-name": "Gordon",
+        "middle-name": "Matthew",
+        "last-name": "Sumner",
+        "preferred-name": "\"Sting\"",
+        "student-id": "1234567",
+        "email": "sting@thepolice.com",
+        "phone": "212.123.4567",
+        "academic-status": "first year",
+        "gpa": "4.0",
+        "major": "Music",
+        "minor": "English",
+        "enrollment-status": "full-time",
+        "advisor": "Andy Summers",
+        "enrollment-date": "08-25-1969",
+        "graduation-date": "05-01-1973"
+      },
+      {
+        "first-name": "Kim",
+        "last-name": "Thayil",
+        "student-id": "4567890",
+        "email": "kim@soundgarden.com",
+        "phone": "206.123.4567",
+        "academic-status": "second year",
+        "gpa": "3.0",
+        "major": "Philosophy",
+        "minor": "Music",
+        "enrollment-status": "full-time",
+        "advisor": "Chris Cornell",
+        "enrollment-date": "08-25-1978",
+        "graduation-date": "05-01-1982"
+      },
+      {
+        "first-name": "Saul",
+        "last-name": "Hudson",
+        "preferred-name": "\"Slash\"",
+        "student-id": "8302438",
+        "email": "slash@gnr.com",
+        "phone": "213.456.8392",
+        "academic-status": "fourth year",
+        "gpa": "2.0",
+        "major": "Music",
+        "minor": "Criminal Justice",
+        "enrollment-status": "part-time",
+        "advisor": "Axl Rose",
+        "enrollment-date": "08-25-1983",
+        "graduation-date": "05-01-1987"
+      },
+      {
+        "first-name": "Emily",
+        "last-name": "Kokal",
+        "student-id": "2983928",
+        "email": "emily@warpaint.com",
+        "phone": "213.123.7654",
+        "academic-status": "third year",
+        "gpa": "3.8",
+        "major": "Political Science",
+        "minor": "Law",
+        "enrollment-status": "full-time",
+        "advisor": "Jenny Lee Lindberg",
+        "enrollment-date": "08-25-1998",
+        "graduation-date": "05-01-2002"
+      },
+      {
+        "first-name": "Mike",
+        "last-name": "Inez",
+        "student-id": "7645726",
+        "email": "mike@aic.com",
+        "phone": "213.444.3323",
+        "academic-status": "second year",
+        "gpa": "4.0",
+        "major": "Business Management",
+        "minor": "Math",
+        "enrollment-status": "full-time",
+        "advisor": "Jerry Cantrell",
+        "enrollment-date": "08-25-1984",
+        "graduation-date": "05-01-1988"
+      }
+    ]
+  }
+}
